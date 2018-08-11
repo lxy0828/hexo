@@ -172,13 +172,13 @@ disqus:
 
 ### 畅言评论(需要ICP备案)
 changyan:
-  enable: false
-  appid:
-  conf:
+  enable: true
+  appid: cytIl7TuT
+  conf: 
 
 ## Valine评论
 valine:
-   enable: true
+   enable: false
    appId: xOKV9J4UeQAtVkvnJC7Kq2Jn-gzGzoHsz
    appKey: erIpQac4azoCmgfBB7Dl9maa
    placeholder: 说点什么吧
